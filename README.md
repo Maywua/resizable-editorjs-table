@@ -4,7 +4,7 @@
 2、上下左右方向键按键操作
 3、自己制作的工具栏菜单，将鼠标悬浮触发事件改为焦点事件
 
-！[text](/example.png)
+![example](https://github.com/user-attachments/assets/975c43e6-cdfc-46a5-ac44-738aee87f31c)
 
 ## 使用方式
 ```javascript
