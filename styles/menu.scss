@@ -1,0 +1,25 @@
+.wu-toolbox-menu-wrapper {
+    display: none;
+    position: absolute;
+    z-index: 9;
+    top: -5px;
+    left: 100%;
+    width: 120px;
+    box-sizing: border-box;
+    margin-top: 2px;
+}
+.wu-toolbox-menu-list {
+    list-style: none;
+    border: 1px solid #636363;
+    padding: 4px;
+    margin: 0;
+    background-color: #f1f1f1;
+}
+.wu-toolbox-menu-item {
+    padding: 4px 6px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.wu-toolbox-menu-item:hover {
+    background-color: #cfcfcf;
+}

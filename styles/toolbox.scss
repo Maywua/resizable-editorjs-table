@@ -1,0 +1,23 @@
+.wu-toolbox-wrapper {
+  display: none;
+  position: absolute;
+}
+.col-toolbox {
+  top: 0;
+  padding: 2px 2px;
+  transform: translate(-50%, -100%);
+}
+.row-toolbox {
+  left: 0;
+  padding: 2px 3.5px;
+  transform: translate(-100%, -50%);
+}
+.wu-toolbox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  padding: 0;
+  background: none;
+  cursor: pointer;
+}
